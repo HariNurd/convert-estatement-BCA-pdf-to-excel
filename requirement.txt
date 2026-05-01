@@ -1,3 +1,4 @@
+altgraph==0.17.5
 anyio==4.13.0
 argon2-cffi==25.1.0
 argon2-cffi-bindings==25.1.0
@@ -68,6 +69,7 @@ pandocfilters==1.5.1
 parso==0.8.6
 pdfminer.six==20251230
 pdfplumber==0.11.9
+pefile==2024.8.26
 pexpect==4.9.0
 pillow==12.2.0
 platformdirs==4.9.6
@@ -78,6 +80,8 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 pycparser==3.0
 Pygments==2.20.0
+pyinstaller==6.20.0
+pyinstaller-hooks-contrib==2026.4
 PyMuPDF==1.27.2.2
 pypdfium2==5.7.1
 pysimplegui==6.0
@@ -85,6 +89,8 @@ pytesseract==0.3.13
 python-dateutil==2.9.0.post0
 python-docx==1.2.0
 python-json-logger==4.1.0
+pywin32-ctypes==0.2.3
+pywinpty==3.0.3
 PyYAML==6.0.3
 pyzmq==27.1.0
 referencing==0.37.0
